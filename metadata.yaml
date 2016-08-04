@@ -1,0 +1,38 @@
+_repo: The-Life-of-Lazarillo-of-Tormes--His-Fortunes-and-Misfortunes-as-Told-by-Himself_437
+_version: 0.0.1
+contributor:
+  contributor:
+    agent_name: Luna, Juan de
+    alias: De Luna, Juan
+    gutenberg_agent_id: '41943'
+    url: http://www.gutenberg.org/2009/agents/41943
+  translator:
+    agent_name: Rudder, Robert S.
+    gutenberg_agent_id: '209'
+    url: http://www.gutenberg.org/2009/agents/209
+creator:
+  author:
+    agent_name: Anonymous
+    alias: Anonyme
+    gutenberg_agent_id: '216'
+    url: http://www.gutenberg.org/2009/agents/216
+    wikipedia:
+    - http://en.wikipedia.org/wiki/Anonymity
+    - http://www.gutenberg.org/browse/authors/u#a49
+description: ''
+gutenberg_issued: '1996-02-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '437'
+language: en
+publisher: Project Gutenberg
+rights: Copyrighted. Read the copyright notice inside this book for details.
+rights_url: ''
+subjects:
+- !lcsh 'Spanish fiction -- Translations into English'
+- !lcc 'PQ'
+- !lcsh 'Picaresque literature, Spanish'
+- !lcsh 'Spain -- Social conditions -- 16th century -- Fiction'
+- GITenberg
+title: 'The Life of Lazarillo of Tormes: His Fortunes and Misfortunes as Told by Himself'
+url: http://www.gutenberg.org/ebooks/437
